@@ -1,0 +1,14 @@
+body {
+  background-color: #1F2937;
+  color: white;
+}
+
+.info img {
+  width: 100px;
+  height: 100px;
+}
+
+.hero-img img{
+  width:300px;
+  height: 150px;
+}
