@@ -20,9 +20,11 @@ body {
 
 .hero-img img{
   width: 40vw;
-  height: 20vw;
-  min-width: 250px;
-  min-height: 125px;
+  height: 22vw;
+  max-width: 650px;
+  max-height: 350px;
+  min-height: 150px;
+  min-width: 250px; 
   border-radius: 7px;
   border:#E5E7EB solid 3px;
   margin: 10px;
